@@ -1,0 +1,5 @@
+24,sl1ghtly
+20,slightly
+16,sl1ghtly
+12,slightly
+8,sl1ghtly

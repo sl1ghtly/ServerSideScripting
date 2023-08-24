@@ -1,0 +1,45 @@
+body {
+    background-image: url("bg.jpg");
+    background-color: #9c0e0e;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    padding-top: 2%;
+    color: white;
+}
+p {
+    text-align: center;
+    padding-top: 1%;
+    color: white;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
+
+.wrapper {
+    padding-top: 1%;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+table#table1 {
+    width:50%; 
+    margin-left:25%; 
+    margin-right:25%;
+}
+th {
+    padding: 10px;
+    text-align: left;
+    color: white;
+}
+td {
+    padding: 10px;
+    text-align: left;
+    color: white;
+}
+tr:nth-child(even) {background: rgba(165, 54, 54, 0.5)}
+tr:nth-child(odd) {background: rgba(56, 50, 50, 0.5)}
